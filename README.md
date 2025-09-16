@@ -41,7 +41,7 @@ I’m especially interested in roles where I can:
 
 **Mobile Application Development**  
 <p align="left">
-<a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer" title="Jetpack Compose"><img src="https://developer.android.com/static/images/jetpack/compose/compose-icon.svg" width="36" height="36" alt="Jetpack Compose" /></a>
+<a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer" title="Jetpack Compose"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="36" height="36" alt="Jetpack Compose" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" title="Kotlin"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
 </p>  
 
