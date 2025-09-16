@@ -36,7 +36,7 @@ I’m especially interested in roles where I can:
 <p align="left">
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer" title="Hibernate"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="36" height="36" alt="Hibernate" /></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer" title="Spring"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" height="36" alt="Spring" /></a>
-<a href="https://restfulapi.net/" target="_blank" rel="noreferrer" title="RESTful APIs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/restapi/restapi-original.svg" width="36" height="36" alt="REST APIs" /></a>
+<a href="https://restfulapi.net/" target="_blank" rel="noreferrer" title="RESTful APIs"><img src="https://img.icons8.com/ios-filled/50/000000/api.png" width="36" height="36" alt="REST APIs" /></a>
 </p>  
 
 **Mobile Application Development**  
