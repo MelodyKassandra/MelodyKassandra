@@ -19,43 +19,51 @@ I’m especially interested in roles where I can:
 
 **Programming Languages**  
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" title="Java"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" title="Kotlin"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 </p>  
 
 **Front-end Frameworks**  
-- Flutter  
-- JavaFX  
-- Swing  
+<p align="left">
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer" title="Flutter"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://openjfx.io/" target="_blank" rel="noreferrer" title="JavaFX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="JavaFX" /></a>
+<a href="https://en.wikipedia.org/wiki/Swing_(Java)" target="_blank" rel="noreferrer" title="Swing"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Swing" /></a>
+</p>  
 
 **Back-end Frameworks**  
-- Hibernate & JDBC  
-- RESTful Web Services  
-- Spring  
+<p align="left">
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer" title="Hibernate"><img src="https://static-00.iconduck.com/assets.00/hibernate-icon-512x500-1zve7wr9.png" width="36" height="36" alt="Hibernate" /></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer" title="Spring"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" height="36" alt="Spring" /></a>
+<a href="https://restfulapi.net/" target="_blank" rel="noreferrer" title="RESTful APIs"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-api-web-flaticons-lineal-color-flat-icons.png" width="36" height="36" alt="REST APIs" /></a>
+</p>  
 
 **Mobile Application Development**  
-- Kotlin  
-- Jetpack Compose  
+<p align="left">
+<a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer" title="Jetpack Compose"><img src="https://developer.android.com/static/images/jetpack/compose/compose-icon.svg" width="36" height="36" alt="Jetpack Compose" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" title="Kotlin"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+</p>  
 
 **Markup Languages**  
-- XML  
-- JSON  
-- CSV  
-- HTML/CSS  
-
-**Design Patterns**  
-- MVC  
-- MVVM  
-- DAO  
+<p align="left">
+<a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer" title="XML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="36" height="36" alt="XML" /></a>
+<a href="https://www.json.org/" target="_blank" rel="noreferrer" title="JSON"><img src="https://img.icons8.com/ios/452/json.png" width="36" height="36" alt="JSON" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" title="CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" /></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer" title="HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" /></a>
+</p>  
 
 **Databases**  
-- MySQL  
-- MariaDB  
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer" title="MariaDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="36" height="36" alt="MariaDB" /></a>
+</p>  
 
 **ERP Systems**  
-- Odoo  
+<p align="left">
+<a href="https://www.odoo.com/" target="_blank" rel="noreferrer" title="Odoo"><img src="https://cdn.iconscout.com/icon/free/png-256/free-odoo-226078.png" width="36" height="36" alt="Odoo" /></a>
+</p>  
+
 
 
 ---
