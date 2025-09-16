@@ -34,7 +34,7 @@ I’m especially interested in roles where I can:
 <a href="https://www.github.com/MelodyKassandra" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a> 
 <a href="https://www.linkedin.com/in/melody-kassandra-monedero-garcia-intern/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
   
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jjgphillips1@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:melody.thiar@gmail.com) 
   <!--🛠️ [Download my CV](https://raw.githubusercontent.com/JuanJGP10/JuanJGP10/main/assets/CV_Juan.pdf)-->
 </p>
 
